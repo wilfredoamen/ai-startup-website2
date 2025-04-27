@@ -8,7 +8,7 @@ A team is developing a website for an AI startup using Git for version control. 
 
 ## Prerequisites
 - Git installed locally
-- Access to central repository(GitHub)
+- Access to central repository (GitHub)
 - Clone of the project repository
 
 ## Tom's Step-by-Step Workflow
