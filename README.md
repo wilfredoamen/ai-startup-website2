@@ -4,7 +4,7 @@
 A team is developing a website for an AI startup using Git for version control. Two developers (Tom and Jerry) need to modify the same `index.html` file simultaneously:
 
 - **Tom's Task**: Update the navigation bar
-- **Jerry's Task**: Add contact information to the footer
+- **Jerry's Task**: Add-contact-information to the footer
 
 ## Prerequisites
 - Git installed locally
